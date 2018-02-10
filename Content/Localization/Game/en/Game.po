@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-02-10 00:28\n"
-"PO-Revision-Date: 2018-02-10 00:28\n"
+"POT-Creation-Date: 2018-02-10 16:57\n"
+"PO-Revision-Date: 2018-02-10 16:57\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -13,12 +13,96 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#. Key:	ButtonContinue
+#. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+#: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+msgctxt "GameOverAndMenusText,ButtonContinue"
+msgid "Continue"
+msgstr "Continue"
+
+#. Key:	ButtonExit
+#. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+#: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+msgctxt "GameOverAndMenusText,ButtonExit"
+msgid "Quit"
+msgstr "Quit"
+
+#. Key:	ButtonPlay
+#. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+#: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+msgctxt "GameOverAndMenusText,ButtonPlay"
+msgid "Play!"
+msgstr "Play!"
+
+#. Key:	ButtonPlayAgain
+#. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+#: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+msgctxt "GameOverAndMenusText,ButtonPlayAgain"
+msgid "Play Again!"
+msgstr "Play Again!"
+
+#. Key:	ButtonResume
+#. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+#: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+msgctxt "GameOverAndMenusText,ButtonResume"
+msgid "Resume Game"
+msgstr "Resume Game"
+
+#. Key:	EndLost
+#. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+#: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+msgctxt "GameOverAndMenusText,EndLost"
+msgid "You are still unemployed..."
+msgstr "You are still unemployed..."
+
+#. Key:	EndWin
+#. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+#: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+msgctxt "GameOverAndMenusText,EndWin"
+msgid "Congratulations! You obtained the job!"
+msgstr "Congratulations! You obtained the job!"
+
+#. Key:	FrenzyNaked
+#. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+#: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+msgctxt "GameOverAndMenusText,FrenzyNaked"
+msgid "OH MY GOD, YOU ARE NAKED! SECURITY!!!"
+msgstr "OH MY GOD, YOU ARE NAKED! SECURITY!!!"
+
+#. Key:	FrenzyNoTimeToWaste
+#. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+#: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+msgctxt "GameOverAndMenusText,FrenzyNoTimeToWaste"
+msgid "I don't have time to waste.\r\nWe shall let you know..."
+msgstr "I don't have time to waste.\r\nWe shall let you know..."
+
+#. Key:	LoseTextNoMoreQuestions
+#. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+#: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+msgctxt "GameOverAndMenusText,LoseTextNoMoreQuestions"
+msgid "I am afraid I have no more time for you.\r\nWe shall let you know..."
+msgstr "I am afraid I have no more time for you.\r\nWe shall let you know..."
+
+#. Key:	LoseTextPointsOver
+#. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+#: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+msgctxt "GameOverAndMenusText,LoseTextPointsOver"
+msgid "Alright, I think I heard enough...\r\nWe shall let you know..."
+msgstr "Alright, I think I heard enough...\r\nWe shall let you know..."
+
+#. Key:	WinAnswerText
+#. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+#: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+msgctxt "GameOverAndMenusText,WinAnswerText"
+msgid "Alright, I think I heard enough.\r\nThank you for your time, and check your mail in the next days!"
+msgstr "Alright, I think I heard enough.\r\nThank you for your time, and check your mail in the next days!"
+
 #. Key:	10AAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,10AAnswer"
 msgid "I WOULD MAKE A LIST OF INFLUENCERS AND CELEBRITIES TO USE AS PROMOTER"
-msgstr "I WOULD MAKE A LIST OF INFLUENCERS AND CELEBRITIES TO USE AS PROMOTER"
+msgstr "I would make a list of celebrities and influencers to hire as promoter"
 
 #. Key:	10APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -32,14 +116,14 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,10AResponse"
 msgid "A smart move indeed"
-msgstr "A smart move indeed"
+msgstr "Interviewer: A smart move indeed"
 
 #. Key:	10BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,10BAnswer"
 msgid "I WOULD USE COMMON PEOPLE THAT EVERYBODY CAN RELATE WITH"
-msgstr "I WOULD USE COMMON PEOPLE THAT EVERYBODY CAN RELATE WITH"
+msgstr "I would use common people that everybody can realte with"
 
 #. Key:	10BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -53,14 +137,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,10BResponse"
 msgid "Questionable"
-msgstr "Questionable"
+msgstr "Interviewer: Questionable"
 
 #. Key:	10CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,10CAnswer"
 msgid "I WOULD MAKE A CAMPAIGN WITH DOGS AND CATS, EVERYBODY LOVE ANIMALS"
-msgstr "I WOULD MAKE A CAMPAIGN WITH DOGS AND CATS, EVERYBODY LOVE ANIMALS"
+msgstr "I would make a campaign with dogs, and cats, and bunnies. Everybody love animals"
 
 #. Key:	10CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -74,7 +158,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,10CResponse"
 msgid "Is this your final answer? "
-msgstr "Is this your final answer? "
+msgstr "Interviewer: Is this your final answer? "
 
 #. Key:	10Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -95,7 +179,7 @@ msgstr "Question"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,11AAnswer"
 msgid "KEEP THE WEBSITE UP-TO-DATE"
-msgstr "KEEP THE WEBSITE UP-TO-DATE"
+msgstr "Keep the website up-to-date"
 
 #. Key:	11APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -109,14 +193,14 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,11AResponse"
 msgid "Basic but effective"
-msgstr "Basic but effective"
+msgstr "Interviewer: Basic but effective"
 
 #. Key:	11BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,11BAnswer"
 msgid "CREATE ORIGINAL CONTENT SHAPED FOR OUR CUSTOMERS"
-msgstr "CREATE ORIGINAL CONTENT SHAPED FOR OUR CUSTOMERS"
+msgstr "Create original content shaped for our customers"
 
 #. Key:	11BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -130,14 +214,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,11BResponse"
 msgid "-takes notes-"
-msgstr "-takes notes-"
+msgstr "Interviewer: *takes notes*"
 
 #. Key:	11CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,11CAnswer"
 msgid "SEND E-MAIL TO SPAM OUR PRODUCTS TO CUSTOMERS"
-msgstr "SEND E-MAIL TO SPAM OUR PRODUCTS TO CUSTOMERS"
+msgstr "Send e-mails to span our products to customers"
 
 #. Key:	11CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -151,7 +235,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,11CResponse"
 msgid "Not always the best choice... "
-msgstr "Not always the best choice... "
+msgstr "Interviewer: Not always the best choice... "
 
 #. Key:	11Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -172,7 +256,7 @@ msgstr "Question"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,12AAnswer"
 msgid "I KNOW THAT IF THERE IS A DEADLINE I HAVE TO STAY AT WORK UNTIL LATE"
-msgstr "I KNOW THAT IF THERE IS A DEADLINE I HAVE TO STAY AT WORK UNTIL LATE"
+msgstr "I know that if there is a deadline I will have to stay at work until late"
 
 #. Key:	12APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -186,14 +270,14 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,12AResponse"
 msgid "Very good, this job requires time"
-msgstr "Very good, this job requires time"
+msgstr "Interviewer: Very good, this job requires time"
 
 #. Key:	12BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,12BAnswer"
 msgid "I ORGANIZE MY WORK EACH DAY TO DELIVER AS MUCH AS POSSIBLE BY THE END OF THE WORKING DAY"
-msgstr "I ORGANIZE MY WORK EACH DAY TO DELIVER AS MUCH AS POSSIBLE BY THE END OF THE WORKING DAY"
+msgstr "I  organize my work each day to deliver as much as possible by the end of the working day"
 
 #. Key:	12BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -207,7 +291,7 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,12BResponse"
 msgid "By the end of the day, huh?"
-msgstr "By the end of the day, huh?"
+msgstr "Interviewer: By the end of the day, huh?"
 
 #. Key:	12CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -228,7 +312,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,12CResponse"
 msgid "- writes it down - "
-msgstr "- writes it down - "
+msgstr "Interviewer: *writes it down*"
 
 #. Key:	12Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -249,7 +333,7 @@ msgstr "Question"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,13AAnswer"
 msgid "I LIKE THRILLER BOOKS, MY FAVOURITE IS “THE DA VINCI TOAD”"
-msgstr "I LIKE THRILLER BOOKS, MY FAVOURITE IS “THE DA VINCI TOAD”"
+msgstr "I like thriller books, my favourite is “The Da Vinci Toad”"
 
 #. Key:	13APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -263,14 +347,14 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,13AResponse"
 msgid "I like Ben Drown books too"
-msgstr "I like Ben Drown books too"
+msgstr "Interviewer: I like Ben Drown books too"
 
 #. Key:	13BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,13BAnswer"
 msgid "I LOVE CLASSICALS, DOOR IN PIECE, THE SCRIPTURE OF DORIAN STRAY, BROH-CULA..."
-msgstr "I LOVE CLASSICALS, DOOR IN PIECE, THE SCRIPTURE OF DORIAN STRAY, BROH-CULA..."
+msgstr "I love classicals: Door in piece, The scripture of Dorian Stray, Broh'cula..."
 
 #. Key:	13BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -284,14 +368,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,13BResponse"
 msgid "I understood, please stop."
-msgstr "I understood, please stop."
+msgstr "Interviewer: I understood, please stop."
 
 #. Key:	13CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,13CAnswer"
 msgid "I LIKE FANTASY NOVELS, LIKE THE “PERRY OTTER” SAGA!"
-msgstr "I LIKE FANTASY NOVELS, LIKE THE “PERRY OTTER” SAGA!"
+msgstr "I like fantasy novels, like the Perry Otter saga!"
 
 #. Key:	13CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -305,7 +389,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,13CResponse"
 msgid "Isn’t that a children book? "
-msgstr "Isn’t that a children book? "
+msgstr "Interviewer: Isn’t that a children book? "
 
 #. Key:	13Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -326,7 +410,7 @@ msgstr "Question"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,14AAnswer"
 msgid "IF I’D WANT TO, I COULD SELL YOU YOUR MOTHER, SIR."
-msgstr "IF I’D WANT TO, I COULD SELL YOU YOUR MOTHER, SIR."
+msgstr "If I'd want to, I could sell you your mother, Sir."
 
 #. Key:	14APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -340,14 +424,14 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,14AResponse"
 msgid "-he smiles-"
-msgstr "-he smiles-"
+msgstr "Interviewer: *smiles*"
 
 #. Key:	14BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,14BAnswer"
 msgid "I THINK I AM GOOD AT SELLING AND I HAVE A GOOD PRESENCE"
-msgstr "I THINK I AM GOOD AT SELLING AND I HAVE A GOOD PRESENCE"
+msgstr "I think I am good at selling, and I have a good presence"
 
 #. Key:	14BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -361,14 +445,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,14BResponse"
 msgid "I understand..."
-msgstr "I understand..."
+msgstr "Interviewer: I understand..."
 
 #. Key:	14CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,14CAnswer"
 msgid "IT WOULD MY FIRST MARKETING EXPERIENCE, BUT I HAVE A DEGREE"
-msgstr "IT WOULD MY FIRST MARKETING EXPERIENCE, BUT I HAVE A DEGREE"
+msgstr "It would be my first marketing experience, but I have a degree"
 
 #. Key:	14CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -382,7 +466,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,14CResponse"
 msgid "And do you think that’s enough? "
-msgstr "And do you think that’s enough? "
+msgstr "Interviewer: And do you think that’s enough? "
 
 #. Key:	14Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -403,7 +487,7 @@ msgstr "Question"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,15AAnswer"
 msgid "SHADY BIRD, I AM LOOKING FORWARD FOR THE OSCARS!"
-msgstr "SHADY BIRD, I AM LOOKING FORWARD FOR THE OSCARS!"
+msgstr "Shady Bird, I am looking forwars to the Oscars night!"
 
 #. Key:	15APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -417,14 +501,14 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,15AResponse"
 msgid "Not bad."
-msgstr "Not bad."
+msgstr "Interviewer: Not bad."
 
 #. Key:	15BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,15BAnswer"
 msgid "HOW IS THIS RELEVANT, SIR?"
-msgstr "HOW IS THIS RELEVANT, SIR?"
+msgstr "How is this relevant, Sir?"
 
 #. Key:	15BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -438,14 +522,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,15BResponse"
 msgid "I make the questions here."
-msgstr "I make the questions here."
+msgstr "Interviewer: I make the questions here."
 
 #. Key:	15CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,15CAnswer"
 msgid "REVENGERS! I LOVE CAPTAIN BRITAIN!"
-msgstr "REVENGERS! I LOVE CAPTAIN BRITAIN!"
+msgstr "Revengers! I love Captain Britain!"
 
 #. Key:	15CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -459,7 +543,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,15CResponse"
 msgid "Hmph...Everybody knows Steel Man is the best one."
-msgstr "Hmph...Everybody knows Steel Man is the best one."
+msgstr "Interviewer: Hmph...Everybody knows Steel Man is the best one."
 
 #. Key:	15Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -480,7 +564,7 @@ msgstr "Question"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,16AAnswer"
 msgid "I INSTANTLY GET BACK TO WORK"
-msgstr "I INSTANTLY GET BACK TO WORK"
+msgstr "I instantly get back to work"
 
 #. Key:	16APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -494,14 +578,14 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,16AResponse"
 msgid "Good."
-msgstr "Good."
+msgstr "Interviewer: Good."
 
 #. Key:	16BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,16BAnswer"
 msgid "I ASK WHAT CAN I DO TO IMPROVE MY WORK"
-msgstr "I ASK WHAT CAN I DO TO IMPROVE MY WORK"
+msgstr "I ask what I can do to improve my work"
 
 #. Key:	16BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -515,14 +599,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,16BResponse"
 msgid "There isn’t always time for questions."
-msgstr "There isn’t always time for questions."
+msgstr "Interviewer: There isn’t always time for questions."
 
 #. Key:	16CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,16CAnswer"
 msgid "I CHANGE WHAT NEEDED TO PLEASE THE SUPERVISOR"
-msgstr "I CHANGE WHAT NEEDED TO PLEASE THE SUPERVISOR"
+msgstr "I change what needed to please the Supervisor"
 
 #. Key:	16CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -536,7 +620,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,16CResponse"
 msgid "Playing smart, huh? -evil grin-"
-msgstr "Playing smart, huh? -evil grin-"
+msgstr "Interviewer: Playing smart, huh? -evil grin-"
 
 #. Key:	16Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -557,7 +641,7 @@ msgstr "Question"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,17AAnswer"
 msgid "BECAUSE IT IS AN HISTORIC INSTITUTION"
-msgstr "BECAUSE IT IS AN HISTORIC INSTITUTION"
+msgstr "Because it is an historic institution"
 
 #. Key:	17APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -571,14 +655,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,17AResponse"
 msgid "Hmph… "
-msgstr "Hmph… "
+msgstr "Interviewer: Hmph… "
 
 #. Key:	17BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,17BAnswer"
 msgid "BECAUSE… MONEY?"
-msgstr "BECAUSE… MONEY?"
+msgstr "Because... money?"
 
 #. Key:	17BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -592,14 +676,14 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,17BResponse"
 msgid "You don’t say"
-msgstr "You don’t say"
+msgstr "Interviewer: You don’t say"
 
 #. Key:	17CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,17CAnswer"
 msgid "I WANT TO BECOME A MANAGER"
-msgstr "I WANT TO BECOME A MANAGER"
+msgstr "I want to become a Manager"
 
 #. Key:	17CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -613,7 +697,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,17CResponse"
 msgid "I will let my boss know."
-msgstr "I will let my boss know."
+msgstr "Interviewer: I will let my boss know."
 
 #. Key:	17Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -634,7 +718,7 @@ msgstr "Frenzy"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,18AAnswer"
 msgid "HERE, WORKING…"
-msgstr "HERE, WORKING…"
+msgstr "Here, working…"
 
 #. Key:	18APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -648,14 +732,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,18AResponse"
 msgid "If you get hired, of course"
-msgstr "If you get hired, of course"
+msgstr "Interviewer: If you get hired, of course"
 
 #. Key:	18BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,18BAnswer"
 msgid "RECRUITING NEW ASSISTANTS"
-msgstr "RECRUITING NEW ASSISTANTS"
+msgstr "Recruiting new Assistants!"
 
 #. Key:	18BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -669,14 +753,14 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,18BResponse"
 msgid "You want to get my job? I see…"
-msgstr "You want to get my job? I see…"
+msgstr "Interviewer: You want to get my job? I see…"
 
 #. Key:	18CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,18CAnswer"
 msgid "I WANT A HOUSE,  A DOG AND TWO CHILDREN"
-msgstr "I WANT A HOUSE,  A DOG AND TWO CHILDREN"
+msgstr "I want a house, a dog and two children"
 
 #. Key:	18CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -690,7 +774,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,18CResponse"
 msgid "Children?"
-msgstr "Children?"
+msgstr "Interviewer: Children?"
 
 #. Key:	18Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -711,7 +795,7 @@ msgstr "Frenzy"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,19AAnswer"
 msgid "AS MANY HOURS AS REQUESTED"
-msgstr "AS MANY HOURS AS REQUESTED"
+msgstr "As many hours as required"
 
 #. Key:	19APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -725,14 +809,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,19AResponse"
 msgid "*nods*"
-msgstr "*nods*"
+msgstr "Interviewer: *nods*"
 
 #. Key:	19BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,19BAnswer"
 msgid "I WANT A FULL TIME POSITION"
-msgstr "I WANT A FULL TIME POSITION"
+msgstr "I want a full-time position"
 
 #. Key:	19BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -746,14 +830,14 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,19BResponse"
 msgid "You WANT? "
-msgstr "You WANT? "
+msgstr "Interviewer: You WANT? "
 
 #. Key:	19CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,19CAnswer"
 msgid "WORK? ISN’T THIS AN INTERNSHIP..."
-msgstr "WORK? ISN’T THIS AN INTERNSHIP..."
+msgstr "Work? Isn't this an internship..."
 
 #. Key:	19CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -767,7 +851,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,19CResponse"
 msgid "Do you even know where you are?"
-msgstr "Do you even know where you are?"
+msgstr "Interviewer: Do you even know where you are?"
 
 #. Key:	19Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -802,7 +886,7 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,1AResponse"
 msgid "I see you know the etiquette"
-msgstr "I see you know the etiquette"
+msgstr "Interviewer: I see you know the etiquette"
 
 #. Key:	1BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -823,7 +907,7 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,1BResponse"
 msgid "..."
-msgstr "..."
+msgstr "Interviewer: ..."
 
 #. Key:	1CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -844,14 +928,14 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,1CResponse"
 msgid "Are you trying to impress someone?"
-msgstr "Are you trying to impress someone?"
+msgstr "Interviewer: Are you trying to impress someone?"
 
 #. Key:	1Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,1Question"
 msgid "Today is the day of my job interview! That place as junior marketing assistant will be mine! I am excited but also worried. I want to make a good impression. So today I chose to wear..."
-msgstr "Today is the day of my job interview! That place as junior marketing assistant will be mine! I am excited but also worried. I want to make a good impression. So today I chose to wear..."
+msgstr "Today is the day of my first job interview since I graduated! That place as junior marketing assistant will be mine! I am excited but also worried. I want to make a good impression. So today I chose to wear an outfit that is:"
 
 #. Key:	1Type
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -865,7 +949,7 @@ msgstr "Frenzy"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,20AAnswer"
 msgid "*START COUGHING* CAN I HAVE A GLASS OF WATER, PLEASE?"
-msgstr "*START COUGHING* CAN I HAVE A GLASS OF WATER, PLEASE?"
+msgstr "*Start coughing* Can I have a glass of water, please?"
 
 #. Key:	20APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -879,14 +963,14 @@ msgstr "10"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,20AResponse"
 msgid "... Of course -Turn off the phone while he’s not watching"
-msgstr "... Of course -Turn off the phone while he’s not watching"
+msgstr "Interviewer: ... Of course /n*Turn off the phone while he’s not watching"
 
 #. Key:	20BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,20BAnswer"
 msgid "WEIRD, MOSQUITOS AT THIS TIME OF THE YEAR, HUH?"
-msgstr "WEIRD, MOSQUITOS AT THIS TIME OF THE YEAR, HUH?"
+msgstr "Weird, mosquitoes at this time of the year, huh?"
 
 #. Key:	20BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -900,14 +984,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,20BResponse"
 msgid "Huh…"
-msgstr "Huh…"
+msgstr "Interviewer: Huh…"
 
 #. Key:	20CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,20CAnswer"
 msgid "I AM SORRY, MY MOTHER IS CALLING ME."
-msgstr "I AM SORRY, MY MOTHER IS CALLING ME."
+msgstr "I am sorry, my mother is calling me"
 
 #. Key:	20CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -921,7 +1005,7 @@ msgstr "-10"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,20CResponse"
 msgid "Excuse me?"
-msgstr "Excuse me?"
+msgstr "Interviewer: Excuse me?"
 
 #. Key:	20Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -942,7 +1026,7 @@ msgstr "Event"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,21AAnswer"
 msgid "JUST WATER WILL BE FINE, THANKS."
-msgstr "JUST WATER WILL BE FINE, THANKS."
+msgstr "Just water will be fine, thanks"
 
 #. Key:	21APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -956,14 +1040,14 @@ msgstr "10"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,21AResponse"
 msgid "Here you go "
-msgstr "Here you go "
+msgstr "Interviewer: Here you go "
 
 #. Key:	21BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,21BAnswer"
 msgid "I WILL HAVE WHAT YOU ARE HAVING, PLEASE"
-msgstr "I WILL HAVE WHAT YOU ARE HAVING, PLEASE"
+msgstr "I will have what you are having, please"
 
 #. Key:	21BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -977,14 +1061,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,21BResponse"
 msgid "... "
-msgstr "... "
+msgstr "Interviewer: ... "
 
 #. Key:	21CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,21CAnswer"
 msgid "A CUP OF COFFEE, PLEASE."
-msgstr "A CUP OF COFFEE, PLEASE."
+msgstr "A cup of coffee, please."
 
 #. Key:	21CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -998,7 +1082,7 @@ msgstr "-10"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,21CResponse"
 msgid "No one drinks coffee in my office"
-msgstr "No one drinks coffee in my office"
+msgstr "Interviewer: No one drinks coffee in my office"
 
 #. Key:	21Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1019,7 +1103,7 @@ msgstr "Event"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,22AAnswer"
 msgid "*START MUMBLING A SONG*"
-msgstr "*START MUMBLING A SONG*"
+msgstr "*Start mumbling a song*"
 
 #. Key:	22APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1033,14 +1117,14 @@ msgstr "10"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,22AResponse"
 msgid "Is that the last song by Lacy Daga? I love her!"
-msgstr "Is that the last song by Lacy Daga? I love her!"
+msgstr "Interviewer: Is that the last song by Lacy Daga? I love her!"
 
 #. Key:	22BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,22BAnswer"
 msgid "THAT’S QUITE A NICE PHONE, SIR"
-msgstr "THAT’S QUITE A NICE PHONE, SIR"
+msgstr "That's quite a nice phone, Sir"
 
 #. Key:	22BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1054,14 +1138,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,22BResponse"
 msgid "It is indeed."
-msgstr "It is indeed."
+msgstr "Interviewer: It is indeed."
 
 #. Key:	22CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,22CAnswer"
 msgid "*WAIT PATIENTLY*"
-msgstr "*WAIT PATIENTLY*"
+msgstr "*Wait patiently*"
 
 #. Key:	22CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1075,7 +1159,7 @@ msgstr "-10"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,22CResponse"
 msgid "Oh, you’re still here..."
-msgstr "Oh, you’re still here..."
+msgstr "Interviewer: Oh, you’re still here..."
 
 #. Key:	22Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1110,7 +1194,7 @@ msgstr "10"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,23AResponse"
 msgid "It isn’t, Isn’t it? Thank you, I’ll fix it."
-msgstr "It isn’t, Isn’t it? Thank you, I’ll fix it."
+msgstr "Interviewer: It isn’t, Isn’t it? Thank you, I’ll fix it."
 
 #. Key:	23BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1131,7 +1215,7 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,23BResponse"
 msgid "You will have time to ask them later, maybe "
-msgstr "You will have time to ask them later, maybe "
+msgstr "Interviewer: You will have time to ask them later, maybe "
 
 #. Key:	23CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1152,7 +1236,7 @@ msgstr "-10"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,23CResponse"
 msgid "Senpai…?"
-msgstr "Senpai…?"
+msgstr "Interviewer: Senpai…?"
 
 #. Key:	23Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1173,7 +1257,7 @@ msgstr "Event"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,2AAnswer"
 msgid "I SHARE AN APARTMENT WITH SOME FRIENDS"
-msgstr "I SHARE AN APARTMENT WITH SOME FRIENDS"
+msgstr "I share an apartment with some friends"
 
 #. Key:	2APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1187,14 +1271,14 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,2AResponse"
 msgid "As many of your age"
-msgstr "As many of your age"
+msgstr "Interviewer: As many of your age"
 
 #. Key:	2BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,2BAnswer"
 msgid "I LIVE IN AN APARTMENT NOT FAR FROM THE CITY"
-msgstr "I LIVE IN AN APARTMENT NOT FAR FROM THE CITY"
+msgstr "I live in an apartment not far from the city"
 
 #. Key:	2BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1208,14 +1292,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,2BResponse"
 msgid "I see money is not a problem"
-msgstr "I see money is not a problem"
+msgstr "Interviewer: I see money is not a problem"
 
 #. Key:	2CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,2CAnswer"
 msgid "I LIVE WITH MY PARENTS"
-msgstr "I LIVE WITH MY PARENTS"
+msgstr "I live with my parents"
 
 #. Key:	2CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1229,14 +1313,14 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,2CResponse"
 msgid "..."
-msgstr "..."
+msgstr "Interviewer: ..."
 
 #. Key:	2Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,2Question"
 msgid "So... tell me something about yourself, where do you live?"
-msgstr "So... tell me something about yourself, where do you live?"
+msgstr "Interviewer: So... tell me something about yourself, where do you live?"
 
 #. Key:	2Type
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1250,7 +1334,7 @@ msgstr "Question"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,3AAnswer"
 msgid "BUSINESS AND MANAGEMENT"
-msgstr "BUSINESS AND MANAGEMENT"
+msgstr "Business and Management"
 
 #. Key:	3APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1264,14 +1348,14 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,3AResponse"
 msgid "Very good"
-msgstr "Very good"
+msgstr "Interviewer: Very good"
 
 #. Key:	3BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,3BAnswer"
 msgid "INFORMATION AND COMMUNICATION TECHNOLOGY"
-msgstr "INFORMATION AND COMMUNICATION TECHNOLOGY"
+msgstr "Information and communication Technology"
 
 #. Key:	3BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1285,14 +1369,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,3BResponse"
 msgid "I see"
-msgstr "I see"
+msgstr "Interviewer: I see"
 
 #. Key:	3CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,3CAnswer"
 msgid "HEALTH AND SOCIAL CARE"
-msgstr "HEALTH AND SOCIAL CARE"
+msgstr "Health and Social care"
 
 #. Key:	3CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1306,7 +1390,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,3CResponse"
 msgid "Why are you… nevermind…"
-msgstr "Why are you… nevermind…"
+msgstr "Interviewer: Why are you… nevermind…"
 
 #. Key:	3Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1320,7 +1404,7 @@ msgstr "Interviewer: I see you recently graduated from the City University. What
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,4AAnswer"
 msgid "SIR, DID YOU KNOW YAWNING IS ACTUALLY A SYMPTOM OF ATTENTION? SEVERAL STUDIES ..."
-msgstr "SIR, DID YOU KNOW YAWNING IS ACTUALLY A SYMPTOM OF ATTENTION? SEVERAL STUDIES ..."
+msgstr "Sir, did you know yawning is actually a symptom of attention? Several recent studies..."
 
 #. Key:	4APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1334,14 +1418,14 @@ msgstr "10"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,4AResponse"
 msgid "Yes, yes, please stop."
-msgstr "Yes, yes, please stop."
+msgstr "Interviewer: Yes, yes, please stop."
 
 #. Key:	4BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,4BAnswer"
 msgid "I AM SORRY, SIR. IT WAS NOT MY INTENTION"
-msgstr "I AM SORRY, SIR. IT WAS NOT MY INTENTION"
+msgstr "I am sorry Sir, it was not my intention"
 
 #. Key:	4BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1355,14 +1439,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,4BResponse"
 msgid "I am sure it wasn’t."
-msgstr "I am sure it wasn’t."
+msgstr "Interviewer: I am sure it wasn’t."
 
 #. Key:	4CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,4CAnswer"
 msgid "EXCUSE ME, I WAS DAYDREAMING ABOUT WORKING HERE"
-msgstr "EXCUSE ME, I WAS DAYDREAMING ABOUT WORKING HERE"
+msgstr "Excuse me, I was daydreaming about working here"
 
 #. Key:	4CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1376,7 +1460,7 @@ msgstr "-10"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,4CResponse"
 msgid "Not so fast..."
-msgstr "Not so fast..."
+msgstr "Interviewer: Not so fast..."
 
 #. Key:	4Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1397,7 +1481,7 @@ msgstr "Event"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,5AAnswer"
 msgid "SOCIAL MEDIA"
-msgstr "SOCIAL MEDIA"
+msgstr "Social media"
 
 #. Key:	5APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1411,14 +1495,14 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,5AResponse"
 msgid "Social media is everything these days"
-msgstr "Social media is everything these days"
+msgstr "Interviewer: Social media is everything these days"
 
 #. Key:	5BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,5BAnswer"
 msgid "GRAPHICS"
-msgstr "GRAPHICS"
+msgstr "Graphics"
 
 #. Key:	5BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1432,14 +1516,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,5BResponse"
 msgid "Understood"
-msgstr "Understood"
+msgstr "Interviewer: Understood"
 
 #. Key:	5CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,5CAnswer"
 msgid "CHARITY EVENTS"
-msgstr "CHARITY EVENTS"
+msgstr "Charity Events"
 
 #. Key:	5CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1453,7 +1537,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,5CResponse"
 msgid "So you enjoy working for free."
-msgstr "So you enjoy working for free."
+msgstr "Interviewer: So you enjoy working for free."
 
 #. Key:	5Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1474,7 +1558,7 @@ msgstr "Question"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,6AAnswer"
 msgid "I RECEIVE MONEY FROM MY FOLLOWERS"
-msgstr "I RECEIVE MONEY FROM MY FOLLOWERS"
+msgstr "I receive money from my followers"
 
 #. Key:	6APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1488,14 +1572,14 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,6AResponse"
 msgid "Very smart"
-msgstr "Very smart"
+msgstr "Interviewer: Very smart"
 
 #. Key:	6BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,6BAnswer"
 msgid "I WORKED AT MAD CONALD’S TO COVER THE EXPENSES"
-msgstr "I WORKED AT MAD CONALD’S TO COVER THE EXPENSES"
+msgstr "I worked at Mad Conald's to cover the expenses"
 
 #. Key:	6BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1509,14 +1593,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,6BResponse"
 msgid "Classic…"
-msgstr "Classic…"
+msgstr "Interviewer: Classic…"
 
 #. Key:	6CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,6CAnswer"
 msgid "MY FAMILY PAYS FOR ME"
-msgstr "MY FAMILY PAYS FOR ME"
+msgstr "My family pays for me"
 
 #. Key:	6CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1530,7 +1614,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,6CResponse"
 msgid "..."
-msgstr "..."
+msgstr "Interviewer: ..."
 
 #. Key:	6Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1551,7 +1635,7 @@ msgstr "Question"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,7AAnswer"
 msgid "I REGULARLY HIT THE GYM"
-msgstr "I REGULARLY HIT THE GYM"
+msgstr "I regularly hit the gym"
 
 #. Key:	7APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1565,14 +1649,14 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,7AResponse"
 msgid "mens sana in corpore sano they say"
-msgstr "mens sana in corpore sano they say"
+msgstr "Interviewer: \"mens sana in corpore\" sano they say"
 
 #. Key:	7BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,7BAnswer"
 msgid "I PLAY GUITAR"
-msgstr "I PLAY GUITAR"
+msgstr "I play guitar"
 
 #. Key:	7BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1586,14 +1670,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,7BResponse"
 msgid "How old are you, again?"
-msgstr "How old are you, again?"
+msgstr "Interviewer: How old are you, again?"
 
 #. Key:	7CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,7CAnswer"
 msgid "I VOLUNTEER IN A DOGS HOME"
-msgstr "I VOLUNTEER IN A DOGS HOME"
+msgstr "I volunteer in a dogs home"
 
 #. Key:	7CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1607,7 +1691,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,7CResponse"
 msgid "I see…"
-msgstr "I see…"
+msgstr "Interviewer: I see…"
 
 #. Key:	7Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1642,7 +1726,7 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,8AResponse"
 msgid "Very good"
-msgstr "Very good"
+msgstr "Interviewer: Good"
 
 #. Key:	8BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1663,7 +1747,7 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,8BResponse"
 msgid "Quite there… "
-msgstr "Quite there… "
+msgstr "Interviewer: Quite there… "
 
 #. Key:	8CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1684,7 +1768,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,8CResponse"
 msgid "I am sorry, what?"
-msgstr "I am sorry, what?"
+msgstr "Interviewer: I am sorry, what?"
 
 #. Key:	8Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1705,7 +1789,7 @@ msgstr "Question"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,9AAnswer"
 msgid "CREATIVE, HARD WORKING, FRIENDLY"
-msgstr "CREATIVE, HARD WORKING, FRIENDLY"
+msgstr "Creative, Hard working, Friendly"
 
 #. Key:	9APoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1719,14 +1803,14 @@ msgstr "5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,9AResponse"
 msgid "Not bad"
-msgstr "Not bad"
+msgstr "Interviewer: Not bad"
 
 #. Key:	9BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,9BAnswer"
 msgid "FUN, RELIABLE, KIND-HEARTED"
-msgstr "FUN, RELIABLE, KIND-HEARTED"
+msgstr "Fun, Reliable, Kind-Hearted"
 
 #. Key:	9BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1740,14 +1824,14 @@ msgstr "0"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,9BResponse"
 msgid "I guess so."
-msgstr "I guess so."
+msgstr "Interviewer: I guess so."
 
 #. Key:	9CAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,9CAnswer"
 msgid "QUICK LEARNER, NERDY, STINGY"
-msgstr "QUICK LEARNER, NERDY, STINGY"
+msgstr "Quick learner, nerd, stingy"
 
 #. Key:	9CPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1761,7 +1845,7 @@ msgstr "-5"
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,9CResponse"
 msgid "Indeed …"
-msgstr "Indeed …"
+msgstr "Interviewer: Indeed …"
 
 #. Key:	9Question
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
