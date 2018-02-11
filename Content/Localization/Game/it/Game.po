@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-02-10 16:57\n"
-"PO-Revision-Date: 2018-02-10 16:57\n"
+"POT-Creation-Date: 2018-02-10 23:59\n"
+"PO-Revision-Date: 2018-02-10 23:59\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -19,6 +19,13 @@ msgstr ""
 msgctxt "GameOverAndMenusText,ButtonContinue"
 msgid "Continue"
 msgstr "Continua"
+
+#. Key:	ButtonCreditsBack
+#. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+#: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
+msgctxt "GameOverAndMenusText,ButtonCreditsBack"
+msgid "Back"
+msgstr "Indietro"
 
 #. Key:	ButtonExit
 #. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
@@ -39,14 +46,14 @@ msgstr "Gioca!"
 #: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
 msgctxt "GameOverAndMenusText,ButtonPlayAgain"
 msgid "Play Again!"
-msgstr "Gioca Ancora!"
+msgstr "Riprova!"
 
 #. Key:	ButtonResume
 #. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
 #: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
 msgctxt "GameOverAndMenusText,ButtonResume"
 msgid "Resume Game"
-msgstr "Riprendi il Gioco"
+msgstr "Riprendi"
 
 #. Key:	EndLost
 #. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
@@ -59,8 +66,8 @@ msgstr "Sei ancora disoccupato..."
 #. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
 #: /Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
 msgctxt "GameOverAndMenusText,EndWin"
-msgid "Congratulations! You obtained the job!"
-msgstr ""
+msgid "Congratulations! You gor hired!"
+msgstr "Congratulazioni! Sei stato assunto!"
 
 #. Key:	FrenzyNaked
 #. SourceLocation:	/Game/Dialogues/GameOverAndMenusText.GameOverAndMenusText
@@ -276,8 +283,8 @@ msgstr "Boss: Ottimo, questo lavoro richiede tempo e fatica."
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,12BAnswer"
-msgid "I  organize my work each day to deliver as much as possible by the end of the working day"
-msgstr "Organizzo il lavoro ogni giorno, in modo da aver dato il massimo entro la fine della giornata"
+msgid "I organize my work each day to deliver as much as possible by the end of the working day"
+msgstr ""
 
 #. Key:	12BPoints
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1252,6 +1259,468 @@ msgctxt "Questions,23Type"
 msgid "Event"
 msgstr "Event"
 
+#. Key:	24AAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,24AAnswer"
+msgid "Carl Drawin"
+msgstr "Carl Drawin"
+
+#. Key:	24APoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,24APoints"
+msgid "5"
+msgstr "5"
+
+#. Key:	24AResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,24AResponse"
+msgid "Interviewer: Does it have to do with natural customer select… nevermind..."
+msgstr ""
+
+#. Key:	24BAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,24BAnswer"
+msgid "Malyreen Ronmoe"
+msgstr "Malyreen Ronmoe"
+
+#. Key:	24BPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,24BPoints"
+msgid "0"
+msgstr "0"
+
+#. Key:	24BResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,24BResponse"
+msgid "Interviewer: ..."
+msgstr "Boss: ..."
+
+#. Key:	24CAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,24CAnswer"
+msgid "Slavislad III"
+msgstr "Slavislad III"
+
+#. Key:	24CPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,24CPoints"
+msgid "-5"
+msgstr "-5"
+
+#. Key:	24CResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,24CResponse"
+msgid "Interviewer: You know in this company violence is not tolerated, yes?"
+msgstr "Boss: Lo sa che in questa compagnia la violenza non è tollerata, sì?"
+
+#. Key:	24Question
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,24Question"
+msgid "Interviewer: If you could have dinner with anyone from history, who would it be?"
+msgstr "Boss: Se potesse cenare con un qualunque personaggio storico, chi sceglierebbe?"
+
+#. Key:	24Type
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,24Type"
+msgid "Question"
+msgstr "Question"
+
+#. Key:	25AAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,25AAnswer"
+msgid "Out of straw. It’s fast and I could build plenty of them"
+msgstr "Di paglia. È veloce e potrei costruirne un sacco."
+
+#. Key:	25APoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,25APoints"
+msgid "5"
+msgstr "5"
+
+#. Key:	25AResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,25AResponse"
+msgid "Interviewer: Very good, but if I were the big bad wolf I would reach you in no time"
+msgstr "Boss: Molto bene, ma se fossi il lupo cattivo la raggiungerei in un soffio"
+
+#. Key:	25BAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,25BAnswer"
+msgid "Out of sticks, because it’s quite resistant and it wouldn’t require too much time to be built."
+msgstr "Di legno, così sarebbe abbastanza resistente ma non servirebbe tanto tempo per costruirla."
+
+#. Key:	25BPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,25BPoints"
+msgid "0"
+msgstr "0"
+
+#. Key:	25BResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,25BResponse"
+msgid "Interviewer: Not bad."
+msgstr "Boss: Non male."
+
+#. Key:	25CAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,25CAnswer"
+msgid "Out of bricks because it is the most resistant"
+msgstr "Di mattoni, perché sarebbe più resistente."
+
+#. Key:	25CPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,25CPoints"
+msgid "-5"
+msgstr "-5"
+
+#. Key:	25CResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,25CResponse"
+msgid "Interviewer: You pick quality, I see..."
+msgstr "Boss: Predilige la qualità, quindi..."
+
+#. Key:	25Question
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,25Question"
+msgid "Interviewer: I guess you know the story of the three little pigs. If you could choose, what would you make your house of and why?"
+msgstr "Boss: Immagino conosca la storia dei tre porcellini. Se potesse scegliere, con cosa costruirebbe la sua casa e perché?"
+
+#. Key:	25Type
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,25Type"
+msgid "Question"
+msgstr "Question"
+
+#. Key:	26AAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,26AAnswer"
+msgid "I go to my workplace only to work "
+msgstr "Io vado al lavoro solo per lavorare"
+
+#. Key:	26APoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,26APoints"
+msgid "5"
+msgstr "5"
+
+#. Key:	26AResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,26AResponse"
+msgid "Interviewer: That’s a shame … -smiles-"
+msgstr "Boss: È un peccato... - sorride-"
+
+#. Key:	26BAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,26BAnswer"
+msgid "Only with a rich co-worker! Like Krystian Dray! Or Edduard Sullen!"
+msgstr "Solo con un collega ricco! Come Krystian Dray! O Edduard Sullen!"
+
+#. Key:	26BPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,26BPoints"
+msgid "0"
+msgstr "0"
+
+#. Key:	26BResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,26BResponse"
+msgid "Interviewer: Oh boy..."
+msgstr "Boss: Oh mamma..."
+
+#. Key:	26CAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,26CAnswer"
+msgid "Only if that person will be the father/mother of my children!"
+msgstr "Solo se quella persona diventasse il padre/madre dei miei bambini!"
+
+#. Key:	26CPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,26CPoints"
+msgid "-5"
+msgstr "-5"
+
+#. Key:	26CResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,26CResponse"
+msgid "Interviewer: -grunts- disgusting…"
+msgstr "Boss: - borbotta - disgustoso..."
+
+#. Key:	26Question
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,26Question"
+msgid "Interviewer: What do you think about having an affair at your workplace?"
+msgstr ""
+
+#. Key:	26Type
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,26Type"
+msgid "Question"
+msgstr "Question"
+
+#. Key:	27AAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,27AAnswer"
+msgid "Look at what competitors do… and smash them!"
+msgstr "Osservare quello che fa la nostra concorrenza... e spaccare tutto!"
+
+#. Key:	27APoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,27APoints"
+msgid "5"
+msgstr "5"
+
+#. Key:	27AResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,27AResponse"
+msgid "Interviewer: Well said!"
+msgstr "Boss: Ben detto!"
+
+#. Key:	27BAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,27BAnswer"
+msgid "If they don’t use social media, they are not good enough for us!"
+msgstr "Se non usano i social media, non ci meritano!"
+
+#. Key:	27BPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,27BPoints"
+msgid "0"
+msgstr "0"
+
+#. Key:	27BResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,27BResponse"
+msgid "Interviewer: … -sighs-"
+msgstr "Boss: ... -sospira-"
+
+#. Key:	27CAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,27CAnswer"
+msgid "Leaflets! Old school, but effective!"
+msgstr "Volantini! Non più di moda ma efficaci!"
+
+#. Key:	27CPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,27CPoints"
+msgid "-5"
+msgstr "-5"
+
+#. Key:	27CResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,27CResponse"
+msgid "Interviewer: In the 80s maybe…"
+msgstr ""
+
+#. Key:	27Question
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,27Question"
+msgid "Interviewer: Let’s imagine we find out from a research that none of our customers use social media, what would you recommend to use to advertise our products?"
+msgstr "Boss: Immaginiamo di scoprire da una ricerca che nessuno dei nostri clienti usa i social media, cosa consiglierebbe di usare per pubblicizzare i nostri prodotti?"
+
+#. Key:	27Type
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,27Type"
+msgid "Question"
+msgstr "Question"
+
+#. Key:	28AAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,28AAnswer"
+msgid "Balsamic vinaigrette, i guess"
+msgstr "Aceto balsamico, suppongo"
+
+#. Key:	28APoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,28APoints"
+msgid "0"
+msgstr "0"
+
+#. Key:	28AResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,28AResponse"
+msgid "Interviewer: Fine..."
+msgstr "Boss: Va bene..."
+
+#. Key:	28BAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,28BAnswer"
+msgid "Ceasar?"
+msgstr "Salsa Cesare?"
+
+#. Key:	28BPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,28BPoints"
+msgid "-5"
+msgstr "-5"
+
+#. Key:	28BResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,28BResponse"
+msgid "Interviewer: Cheap."
+msgstr "Boss: Scadente."
+
+#. Key:	28CAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,28CAnswer"
+msgid "Tomato"
+msgstr "Pomodoro"
+
+#. Key:	28CPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,28CPoints"
+msgid "-5"
+msgstr "-5"
+
+#. Key:	28CResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,28CResponse"
+msgid "Interviewer: You are a salad, not pasta!"
+msgstr "Boss: Sarebbe un'insalata, non una pasta!"
+
+#. Key:	28Question
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,28Question"
+msgid "Interviewer: If you were a salad, what kind of dressing would you want?"
+msgstr "Boss: Se fosse un'insalata, che tipo di condimento vorrebbe?"
+
+#. Key:	28Type
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,28Type"
+msgid "Frenzy"
+msgstr "Frenzy"
+
+#. Key:	29AAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,29AAnswer"
+msgid "Once I started crying and I made my aunt buy all the school-competition cookies. I won."
+msgstr "Una volta mi sono messo a piangere e ho fatto comprare a mia zia tutti i biscotti per la competizione scolastica. Ho vinto."
+
+#. Key:	29APoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,29APoints"
+msgid "0"
+msgstr "0"
+
+#. Key:	29AResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,29AResponse"
+msgid "Interviewer: I like cookies…"
+msgstr "Boss: Mi piacciono i biscotti..."
+
+#. Key:	29BAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,29BAnswer"
+msgid "Once they gave me a big mad instead of a regular burger, so i went back and asked to talk with the manager!"
+msgstr "Una volta mi hanno dato un Big Mad invece di un hamburger normale, così sono tornato indietro e ho chiesto di parlare con un manager!"
+
+#. Key:	29BPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,29BPoints"
+msgid "-5"
+msgstr "-5"
+
+#. Key:	29BResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,29BResponse"
+msgid "Interviewer: Your customer… Not you as a customer..."
+msgstr "Boss: Un suo cliente... Non lei come cliente..."
+
+#. Key:	29CAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,29CAnswer"
+msgid "I am afraid I don’t have any customer experience... "
+msgstr "Ho paura di non avere nessuna esperienza di assistenza ai clienti..."
+
+#. Key:	29CPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,29CPoints"
+msgid "-5"
+msgstr "-5"
+
+#. Key:	29CResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,29CResponse"
+msgid "Interviewer: ..."
+msgstr "Boss: ..."
+
+#. Key:	29Question
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,29Question"
+msgid "Interviewer: Tell me about a time you changed a customer’s mind.... "
+msgstr "Boss: Mi dica di un'occasione in cui ha cambiato l'idea di un cliente..."
+
+#. Key:	29Type
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,29Type"
+msgid "Frenzy"
+msgstr "Frenzy"
+
 #. Key:	2AAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
@@ -1319,8 +1788,8 @@ msgstr ""
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,2Question"
-msgid "Interviewer: So... tell me something about yourself, where do you live?"
-msgstr "Boss: Mi dica qualcosa di lei... Dove vive?"
+msgid "Interviewer: So... Tell me something about yourself, where do you live?"
+msgstr ""
 
 #. Key:	2Type
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1328,6 +1797,160 @@ msgstr "Boss: Mi dica qualcosa di lei... Dove vive?"
 msgctxt "Questions,2Type"
 msgid "Question"
 msgstr "Question"
+
+#. Key:	30AAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,30AAnswer"
+msgid "I would invest them in SpaceY or in Edison Motors."
+msgstr "Li investirei in SpaceY o in Edison Motors"
+
+#. Key:	30APoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,30APoints"
+msgid "0"
+msgstr "0"
+
+#. Key:	30AResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,30AResponse"
+msgid "Interviewer: Interesting..."
+msgstr "Boss: Interessante..."
+
+#. Key:	30BAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,30BAnswer"
+msgid "I would give fundings to greenpeas to save the planet!"
+msgstr "Darei dei fondi a GreenPeas per salvare il pianeta!"
+
+#. Key:	30BPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,30BPoints"
+msgid "-5"
+msgstr "-5"
+
+#. Key:	30BResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,30BResponse"
+msgid "Interviewer: You hippie..."
+msgstr "Boss: Mpf, hippie..."
+
+#. Key:	30CAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,30CAnswer"
+msgid "I would put them in a saving account."
+msgstr "Li metterei in un conto di risparmio"
+
+#. Key:	30CPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,30CPoints"
+msgid "-5"
+msgstr "-5"
+
+#. Key:	30CResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,30CResponse"
+msgid "Interviewer: We don’t like who plays safe."
+msgstr "Boss: A noi non piace chi non rischia."
+
+#. Key:	30Question
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,30Question"
+msgid "Interviewer: If you had $100.000 how would you invest them?"
+msgstr ""
+
+#. Key:	30Type
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,30Type"
+msgid "Frenzy"
+msgstr "Frenzy"
+
+#. Key:	31AAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,31AAnswer"
+msgid "Gemini"
+msgstr "Gemelli"
+
+#. Key:	31APoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,31APoints"
+msgid "10"
+msgstr "10"
+
+#. Key:	31AResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,31AResponse"
+msgid "Interviewer: Very well, the best sales are made by geminis, like me."
+msgstr "Boss: Splendido, le vendite migliori sono fatte da i Gemelli, come me."
+
+#. Key:	31BAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,31BAnswer"
+msgid "Leo"
+msgstr "Leone"
+
+#. Key:	31BPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,31BPoints"
+msgid "0"
+msgstr "0"
+
+#. Key:	31BResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,31BResponse"
+msgid "Interviewer: Have you thought of public relations, instead?"
+msgstr "Boss: Ha pensato a una carriera nelle pubbliche relazioni, invece?"
+
+#. Key:	31CAnswer
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,31CAnswer"
+msgid "Pisces"
+msgstr "Pesci"
+
+#. Key:	31CPoints
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,31CPoints"
+msgid "-10"
+msgstr "-10"
+
+#. Key:	31CResponse
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,31CResponse"
+msgid "Interviewer: - he looks very disappointed -"
+msgstr "Boss: - sembra molto deluso -"
+
+#. Key:	31Question
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,31Question"
+msgid "*This guy is really rude. He opened a magazine and he’s ignoring me...* Interviewer: What’s your star sign?"
+msgstr "*Questo tizio è proprio maleducato. Ha aperto una rivista e mi sta ignorando...* Boss: Qual è il suo segno zodiacale?"
+
+#. Key:	31Type
+#. SourceLocation:	/Game/Dialogues/Questions.Questions
+#: /Game/Dialogues/Questions.Questions
+msgctxt "Questions,31Type"
+msgid "Event"
+msgstr "Event"
 
 #. Key:	3AAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1648,8 +2271,8 @@ msgstr "5"
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,7AResponse"
-msgid "Interviewer: \"mens sana in corpore\" sano they say"
-msgstr "Boss: Come si suol dire \"mens sana in corpore sano\"."
+msgid "Interviewer: \"Mens sana in corpore sano\",  they say"
+msgstr ""
 
 #. Key:	7BAnswer
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
@@ -1697,8 +2320,8 @@ msgstr "Boss: Capisco"
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
 #: /Game/Dialogues/Questions.Questions
 msgctxt "Questions,7Question"
-msgid "Interviewer: Well well … Do you have a hobby?"
-msgstr "Boss: Bene bene... Ha un hobby?"
+msgid "Interviewer: Well well… Do you have a hobby?"
+msgstr ""
 
 #. Key:	7Type
 #. SourceLocation:	/Game/Dialogues/Questions.Questions
